@@ -2,7 +2,7 @@
 
 An enterprise-level network infrastructure designed and simulated using Cisco Packet Tracer. Features dynamic routing, high availability, inter-VLAN routing, and access control security policies.
 
-![Topology Network Diagram](topology.png)
+![Topology Network Diagram](Topology.png)
 
 ## Core Network Architecture & Features
 
